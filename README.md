@@ -1,3 +1,4 @@
 # Contagem-regressiva
 Treinamento com JS e CSS/HTML
-![projeto css-html](https://user-images.githubusercontent.com/110636549/193684510-7e8835bd-a8d7-422a-b14f-d6884249cbcc.PNG)
+
+![proejto lançamento](https://user-images.githubusercontent.com/110636549/193684801-94b4a3b8-4a1c-493e-aa70-18d2d36b9a46.png)
